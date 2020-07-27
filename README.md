@@ -16,6 +16,9 @@
 ## Description
 Particle trail module for the Zephyrus Store plugin.
 
+## Showcase
+[![Particle Trails Showcase](http://img.youtube.com/vi/H7DrpTiqyRI/0.jpg)](http://www.youtube.com/watch?v=H7DrpTiqyRI "Particle Trails Showcase")
+
 ## Contributions
 Contributions are always welcome!
 Just make a [pull request](../../pulls).
